@@ -76,3 +76,14 @@ h2 a {
     text-decoration: none;
     color: #39a6b2;
 }
+section 
+     {
+    padding: 60px;
+    /* Hero Style Start */
+     }
+    .hero {
+        background-image: url("file:///Users/aimeeforbush/Projects/run-buddy/assets/Images/hero-bg.jpeg");
+        height: 600px;
+    }
+    /* Hero Style End */
+
