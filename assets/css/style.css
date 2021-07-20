@@ -109,7 +109,7 @@ section
         margin: 5px 0 15px 0;
         color:#024e76;
     }
-    .hero form-input {
+    .hero .form-input {
         border: 1px solid #024E76;
         display: block;
         padding: 7px 15px;
@@ -120,6 +120,7 @@ section
     }
     .hero-form label {
         margin: 0 5px;
+        display: block;
     }
     .hero-form button {
         color: fce138;
