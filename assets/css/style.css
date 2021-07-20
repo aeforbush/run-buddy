@@ -109,18 +109,17 @@ section
         margin: 5px 0 15px 0;
         color:#024e76;
     }
-    .form-input {
-        border: 1px solid #024e76;
+    .hero form-input {
+        border: 1px solid #024E76;
         display: block;
         padding: 7px 15px;
         font-size: 16px;
-        color: #024e76;
+        color: #024E76;
         width: 100%;
         margin-bottom: 15px;
     }
     .hero-form label {
         margin: 0 5px;
-        display: block;
     }
     .hero-form button {
         color: fce138;
@@ -129,5 +128,6 @@ section
         padding: 10px 20px;
         font-size: 16px;
     }
+
     /* HERO STYLES END*/
 
