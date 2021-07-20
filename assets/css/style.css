@@ -89,7 +89,6 @@ section
         position: relative;
     }
     .hero-form {
-        display: block;
         background-color: #fce138;
         padding: 20px;
         width: 500px;
@@ -121,6 +120,7 @@ section
     }
     .hero-form label {
         margin: 0 5px;
+        display: block;
     }
     .hero-form button {
         color: fce138;
