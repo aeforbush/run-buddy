@@ -241,26 +241,28 @@ section
 
     .contact h2 {
         color: #fce138;
+        text-align: center;
     }
 
-    .contact-info iframe {
+    .column iframe {
         width: 400px;
         height: 400px;
     }
 
-    .contact-info div {
+    .column div {
         width: 410px;
         display: inline-block;
         vertical-align: top;
         margin: 30px 0 0 60px;
     }
 
-    .contact-info h3 {
+    .column h3 {
         color: #fce138;
         font-size: 32px;
+        text-align: left;
     }
 
-    .contact-info p, .contact-info address {
+    .column p {
         margin: 20px 0;
         line-height: 1.5;
         font-size: 20px;
@@ -269,8 +271,25 @@ section
         text-align: left;
     }
 
-    .contact-info a {
+    .column address {
+        margin: 20px 0;
+        line-height: 1.5;
+        font-size: 20px;
+        font-style: normal;
+        color: white;
+        text-align: left;
+    }
+
+    .column a {
         color: #fce138;
+    }
+
+    .row {
+        display: flex;
+    }
+
+    .column {
+        flex: 50%;
     }
 
 
