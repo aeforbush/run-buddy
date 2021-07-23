@@ -79,7 +79,7 @@ h2 a {
 section 
      {
     padding: 60px;
-    /* Hero Style Start */
+    /* homepage hero start */
      }
     .hero {
         background-image: url("file:///Users/aimeeforbush/Projects/run-buddy/assets/Images/hero-bg.jpeg");
@@ -99,7 +99,7 @@ section
         right: 140px;
         margin: 5px 0 15px 0;
     }
-    /* Hero Style End */
+
     .hero-form h3 {
         font-size: 24px;
         color: #024e76;
@@ -128,8 +128,8 @@ section
         padding: 10px 20px;
         font-size: 16px;
     }
+    /* homepage hero finish */
 
-    /* HERO STYLES END*/
     .intro {
         text-align: center;
     }
