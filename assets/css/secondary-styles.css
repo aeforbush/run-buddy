@@ -3,10 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
-body {
-    /* more on this crazy alphanumerical value in a minute! */ color: #39a6b2; font-family: Helvetica, Arial, sans-serif;
-}
-/* apply styles to <header> */
+
+/* HEADER START */
 header {
     padding: 20px 35px;
     background-color: #39a6b2;
@@ -44,6 +42,9 @@ header h1 {
     margin: 0;
     display: inline;
 }
+/* HEADER END */
+
+/* FOOTER START */
 footer {
     background: #fce138;
     width: 100%;
@@ -63,3 +64,17 @@ footer div {
 footer a {
     color: #024e76;
 }
+/* FOOTER END */
+
+/* HERO SECONDARY START */
+section {
+    padding: 60px;
+     }
+
+    .hero {
+        background-position: bottom;
+        height: auto;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
