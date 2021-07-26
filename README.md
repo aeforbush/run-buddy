@@ -12,3 +12,5 @@ https://aeforbush.github.io/run-buddy/
 
 ## Contribution
 Made with  &#10084;   by Aimee Forbush
+
+### &copy;2019 Run Buddy, Inc
