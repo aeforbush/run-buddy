@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy Change
 
 ## Purpose
 A website that offers fitness training services.
