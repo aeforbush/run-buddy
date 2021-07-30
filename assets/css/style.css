@@ -276,41 +276,27 @@ section {
 }
 
 .step {
-    margin: 50% auto;
-    padding-bottom:  50px;
+    margin: 50 px auto;
+    padding-bottom: 50px;
     width: 80%;
+    border-bottom: 1px solid #39a6b2;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
 }
 
-.step:not(:last-child) {
-    border-bottom: 1px solid var(--tertiary-color);
-}
-
 .step h3 {
-    color: var(--secondary-color);
+    color: #024e76;
     font-size: 46px;
     flex: 1 30%;
 }
 
-.step-text p {
-    color: var(--tertiary-color);
-    font-size: 18px;
-}
-
-.step-text h4 {
-    font-size: 26px;
-    line-height: 1.5;
-    color: var(--secondary-color);
-}
-
 .step-info {
+    flex: 2 70%;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    flex: 2 70%;
 }
 
 .step-img {
@@ -324,6 +310,17 @@ section {
 
 .step-text {
     flex: 12;
+}
+
+.step-text p {
+    color: #39a6b2;
+    font-size: 18px;
+}
+
+.step-text h4 {
+    font-size: 26px;
+    line-height: 1.5;
+    color: #024E76;
 }
 
 /* WHAT YOU DO STYLES END */
