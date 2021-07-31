@@ -393,9 +393,11 @@ section {
 
 /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
 
-@media screen and (min-width: 980px) { header {
+@media screen and (min-width: 980px) { 
+    header {
     padding-bottom: 0;
     justify-content: center;
+}
 }
 
 header h1 {
