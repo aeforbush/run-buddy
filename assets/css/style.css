@@ -336,7 +336,6 @@ section {
     padding-bottom: 0;
     justify-content: center;
 }
-}
 
 header h1 {
     width: 100%;
@@ -377,6 +376,7 @@ footer h2, footer div {
 .contact-info iframe {
     flex: 1 100%;
 }
+}
 
 
 /* MEDUIA QUERY FOR TABLETS AND SMALLER */
@@ -384,7 +384,6 @@ footer h2, footer div {
     section {
         padding: 30px 15px;
     }
-}
 
 .step h3 {
     flex: 1 100%;
@@ -407,13 +406,13 @@ footer h2, footer div {
 .step-text {
     flex: 100%;
 }
+}
 
 /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
 @media screen and (max-width: 575px) {
     .hero-form button {
         width: 100%;
     }
-}
         
     .section-title {
         width: 95%;
@@ -438,6 +437,7 @@ footer h2, footer div {
     .contact-form {
         order: 3;
     }
+}
     
 
 
