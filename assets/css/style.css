@@ -130,7 +130,7 @@ section {
     margin: 3.5%;
     color: #fff;
     font-size: 18px;
-    line-height: 1.2;
+    line-height: 1.3;
 }
 .hero-cta h2 {
     font-style: italic;
@@ -340,7 +340,6 @@ section {
     background: var(--secondary-color);
     color: var(--primary-color);
     flex: 1;
-
 }
 .trainers img {
     width: 100%;
