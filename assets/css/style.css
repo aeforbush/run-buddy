@@ -70,7 +70,7 @@ header nav ul li a:hover {
     color: var(--secondary-color);
     border-radius: 15px;
     text-shadow: none;
-  }
+}
 
 /* HEADER / NAV BAR STYLES END */
 
@@ -276,7 +276,7 @@ section {
 }
 
 .step {
-    margin: 50 px auto;
+    margin: 50px auto;
     padding-bottom: 50px;
     width: 80%;
     border-bottom: 1px solid #39a6b2;
